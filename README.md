@@ -1,8 +1,4 @@
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-
 # 👋 Hi there, I'm Zdenko (aka MrGegaz)
 
 🎓 I'm a computer science student who’s still exploring which path to follow in tech — because too many things seem interesting until I try them out!
