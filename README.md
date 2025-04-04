@@ -1,4 +1,4 @@
-![Banner](./Banner.png)
+![Banner](./banner.png)
 ---
 
 # 👋 Hi there, I'm Zdenko (aka MrGegaz)
