@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Zdenko (aka MrGegaz)
 
-🎓 I'm a computer science student who’s still exploring which path to follow in tech — because too many things seem interesting until I try them out!
+🎓 I'm a computer science student who’s still exploring which path to follow in tech — because too many things seem interesting until I try them out!  
 🎮 In my free time, I enjoy airsoft, gaming, hiking, tinkering with DIY projects, and hanging out with my wife and dog 🐶.
 
 ---
