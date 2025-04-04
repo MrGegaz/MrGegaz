@@ -44,7 +44,7 @@ _(More projects coming soon – stay tuned!)_
 ## 🌐 Connect with Me
 - 🔗 [LinkedIn](#) *(link to be added)*
 - 🔗 [Telegram](#) *(link to be added)*
-- 📧 You can reach me at: **yourname.dev@gmail.com** (email to be added)
+- 📧 You can reach me at: **email@email.com** (email to be added)
 
 ---
 
