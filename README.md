@@ -46,7 +46,9 @@ _(More projects coming soon – stay tuned!)_
 ## 🌐 Connect with Me
 - 🔗 [LinkedIn](#) *(link to be added)*
 - 🔗 [Telegram](#) *(link to be added)*
-- 📧 You can reach me at: **email@email.com** (email to be added)
+- 📧 You can reach me at: **mrgegaz.dev@gmail.com**
+
+(I may respond during evenings or weekends; however, please feel no pressure to reply outside your normal working/available hours.)
 
 ---
 
