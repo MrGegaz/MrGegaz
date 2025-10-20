@@ -4,23 +4,23 @@
 # 👋 Hi there, I'm Zdenko (aka MrGegaz)
 
 🎓 I'm a computer science student who’s still exploring which path to follow in tech — because too many things seem interesting until I try them out!\
-🎮 In my free time, I enjoy airsoft, gaming, hiking, tinkering with DIY projects, and hanging out with my wife and dog 🐶.
+🎮 In my free time, I enjoy gaming, airsoft, hiking, tinkering with DIY projects and hanging out with my wife and dog 🐶.
 
 ---
 
 ## 💡 About Me
-- 🔭 Currently learning C# and experimenting with AvaloniaUI (on Linux, not Windows 😄)
+- 🔭 Currently exploring which path in programming to take.
 - 🧠 Interested in IoT, app development, 3D printing, and game dev (I'd love to make an indie game one day!)
-- ✍️ I also do some 3D modeling for my own printing needs.
+- ✍️ I also do some 3D modeling for my 3D printing needs.
 
 ---
 
 ## 🛠️ Languages & Tools
-Here are some of the technologies I've worked with:
+Here are some of the technologies that I've worked with or am familiar with:
 
 ```text
-💻 Languages: HTML • JavaScript • SQL • PHP • C++ • C# • Java • Python
-🛠️ Tools:     GitHub • GitLab • AvaloniaUI • Visual Studio Code • JetBrains • Linux • Windows
+💻 Languages: HTML • JavaScript • SQL • PHP • C++ • C# • Java • Kotlin • Python
+🛠️ Tools:     GitHub • GitLab • Visual Studio Code • JetBrains • Android studio • Unity • AvaloniaUI • Linux • Windows
 ```
 
 ---
@@ -34,12 +34,14 @@ _(More projects coming soon – stay tuned!)_
 ---
 
 ## 🔭 I’m currently working on
-- Nothing to big at the moment, just some learning.
+- Nothing too big at the moment, just some learning.
 
 ---
 
 ## 🌱 I’m currently learning
-- C# and AvaloniaUI.
+- .NET.
+- Kotlin.
+- Unity.
 
 ---
 
