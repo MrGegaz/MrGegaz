@@ -3,7 +3,7 @@
 
 # 👋 Hi there, I'm Zdenko (aka MrGegaz)
 
-🎓 I'm a computer science student who’s still exploring which path to follow in tech — because too many things seem interesting until I try them out!\
+🎓 I'm a computer science student who’s still exploring which path to follow in tech - because too many things seem interesting until I try them out!\
 🎮 In my free time, I enjoy gaming, airsoft, hiking, tinkering with DIY projects and hanging out with my wife and dog 🐶.
 
 ---
@@ -26,10 +26,10 @@ Here are some of the technologies that I've worked with or am familiar with:
 ---
 
 ## 📌 Projects
-- 📟 **Daktilografija (Typing App)** – A group project where we refactored and completed a typing application started by previous students.
+- 📟 **Daktilografija (Typing App)** - A group project where we refactored and completed a typing application started by previous students.
   We focused on code cleanup, bug fixing, and adding features to make the app functional again.
 
-_(More projects coming soon – stay tuned!)_
+_(More projects coming soon - stay tuned!)_
 
 ---
 
@@ -61,7 +61,7 @@ _(More projects coming soon – stay tuned!)_
 ## ⚡ Fun Facts
 - I always try to fix things myself before asking for help 🔧
 - I'm an airsoft enthusiast and a big fan of everything DIY
-- I enjoy combining tech with my hobbies — especially when it involves 3D printing or microcontrollers 😎
+- I enjoy combining tech with my hobbies - especially when it involves 3D printing or microcontrollers 😎
 
 ---
 
