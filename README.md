@@ -20,7 +20,7 @@ Here are some of the technologies that I've worked with or am familiar with:
 
 ```text
 💻 Languages: HTML • JavaScript • CSS • SQL • PHP • C++ • C# • Java • Kotlin • Python
-🛠️ Tools:     GitHub • GitLab • Visual Studio Code • JetBrains • Android studio • Unity • AvaloniaUI • Linux • Windows
+🛠️ Tools:     GitHub • GitLab • Visual Studio Code • JetBrains • Android studio • Unity • Godot •  AvaloniaUI • Linux • Windows
 ```
 
 ---
@@ -42,6 +42,7 @@ _(More projects coming soon - stay tuned!)_
 - .NET.
 - Kotlin.
 - Unity.
+- Godot
 - Flutter
 - React
 - NestJS
@@ -54,7 +55,7 @@ _(More projects coming soon - stay tuned!)_
 - 🔗 [Telegram](#) *(link to be added)*
 - 📧 You can reach me at: **mrgegaz.dev@gmail.com**
 
-(I may respond during evenings or weekends; however, please feel no pressure to reply outside your normal working/available hours.)
+(I may respond during evenings or weekends; however, please feel no obligation to reply outside your normal working/available hours.)
 
 ---
 
