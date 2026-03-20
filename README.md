@@ -19,7 +19,7 @@
 Here are some of the technologies that I've worked with or am familiar with:
 
 ```text
-💻 Languages: HTML • JavaScript • CSS • SQL • PHP • C++ • C# • Java • Kotlin • Python
+💻 Languages: HTML • JavaScript • CSS • SQL • PHP • C++ • C# • .NET • Java • Kotlin • Python
 🛠️ Tools:     GitHub • GitLab • Visual Studio Code • JetBrains • Android studio • Unity • Godot •  AvaloniaUI • Linux • Windows
 ```
 
@@ -39,19 +39,17 @@ _(More projects coming soon - stay tuned!)_
 ---
 
 ## 🌱 I’m currently learning
-- .NET.
-- Kotlin.
-- Unity.
-- Godot
 - Flutter
 - React
 - NestJS
+- TypeScript
+- CSS
 - PostgreSQL
 
 ---
 
 ## 🌐 Connect with Me
-- 🔗 [LinkedIn](#) *(link to be added)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/zdenko-gega-6bb5b1242/)
 - 🔗 [Telegram](#) *(link to be added)*
 - 📧 You can reach me at: **mrgegaz.dev@gmail.com**
 
