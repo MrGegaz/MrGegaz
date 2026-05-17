@@ -16,10 +16,10 @@
 ---
 
 ## 🛠️ Languages & Tools
-Here are some of the technologies that I've worked with or am familiar with:
+Here are some of the technologies that I've worked with or am at least familiar with:
 
 ```text
-💻 Languages: HTML • JavaScript • CSS • SQL • PHP • C++ • C# • .NET • Java • Kotlin • Python
+💻 Languages: HTML • JavaScript • CSS • SQL • PHP • C++ • C# • .NET • Java • Kotlin • Python • Flutter • React • TypeScript
 🛠️ Tools:     GitHub • GitLab • Visual Studio Code • JetBrains • Android studio • Unity • Godot •  AvaloniaUI • Linux • Windows
 ```
 
@@ -34,17 +34,15 @@ _(More projects coming soon - stay tuned!)_
 ---
 
 ## 🔭 I’m currently working on
-- Learning Flutter, React, NestJS and PostgreSQL for my student job.
+- Small Java and .NET apps with PostgreSQL for my CV.
 
 ---
 
 ## 🌱 I’m currently learning
-- Flutter
-- React
-- NestJS
-- TypeScript
-- CSS
-- PostgreSQL
+- Java
+- Kotlin
+- .NET
+- React Native
 
 ---
 
