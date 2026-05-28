@@ -47,6 +47,7 @@ _(More projects coming soon - stay tuned!)_
 ---
 
 ## 🌐 Connect with Me
+- 🔗 [MrGegaz.dev](https://mrgegaz.dev)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/zdenko-gega-6bb5b1242/)
 - 🔗 [Telegram](#) *(link to be added)*
 - 📧 You can reach me at: **mrgegaz.dev@gmail.com**
