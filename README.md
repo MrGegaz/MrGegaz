@@ -1,66 +1,58 @@
 ![Banner](./Banner.png)
----
 
 # 👋 Hi there, I'm Zdenko (aka MrGegaz)
 
-🎓 I'm a computer science student who’s still exploring which path to follow in tech - because too many things seem interesting until I try them out!\
-🎮 In my free time, I enjoy gaming, airsoft, hiking, tinkering with DIY projects and hanging out with my wife and dog 🐶.
+🎓 Computer science student still figuring out which path in tech to follow - too many things look interesting until I try them out!\
+🎮 Outside of coding: gaming, airsoft, hiking, DIY projects, and time with my wife and dog 🐶.
 
 ---
 
 ## 💡 About Me
-- 🔭 Currently exploring which path in programming to take.
-- 🧠 Interested in IoT, app development, 3D printing, and game dev (I'd love to make an indie game one day!)
-- ✍️ I also do some 3D modeling for my 3D printing needs.
+- 🔭 Exploring which direction in programming to take.
+- 🧠 Into IoT, app development, game dev, and 3D printing/modeling.
+- 🎯 Dream project: making my own indie game one day.
 
 ---
 
 ## 🛠️ Languages & Tools
-Here are some of the technologies that I've worked with or am at least familiar with:
-
 ```text
-💻 Languages: HTML • JavaScript • CSS • SQL • PHP • C++ • C# • .NET • Java • Kotlin • Python • Flutter • React • TypeScript
-🛠️ Tools:     GitHub • GitLab • Visual Studio Code • JetBrains • Android studio • Unity • Godot •  AvaloniaUI • Linux • Windows
+Languages:  JavaScript • TypeScript • C# • C++ • Java • Kotlin • Python • PHP • SQL • HTML/CSS
+Frameworks: .NET • React • Flutter • AvaloniaUI
+Tools:      Git • VS Code • JetBrains • Android Studio • Unity • Godot • Linux • Windows
 ```
 
 ---
 
 ## 📌 Projects
-- 📟 **Daktilografija (Typing App)** - A group project where we refactored and completed a typing application started by previous students.
-  We focused on code cleanup, bug fixing, and adding features to make the app functional again.
+- 📟 **Daktilografija (Typing App)** - Group project refactoring and completing a typing app started by previous students: code cleanup, bug fixing, and new features to get it working again.
 
-_(More projects coming soon - stay tuned!)_
-
----
-
-## 🔭 I’m currently working on
-- Small Java and .NET apps with PostgreSQL for my CV.
+_(More coming soon - stay tuned!)_
 
 ---
 
-## 🌱 I’m currently learning
-- Java
-- Kotlin
-- .NET
-- React Native
+## 🚀 Now
+🔭 **Working on:**
+-   translating [Wholphin](https://github.com/damontecres/Wholphin) into Croatian. [Get involved](https://translate.codeberg.org/engage/wholphin/) [![Translation status](https://translate.codeberg.org/widget/wholphin/wholphin/hr/matrix-auto.svg)](https://translate.codeberg.org/engage/wholphin/)
+
+🌱 **Learning:**
+- Java, Spring Boot, Kotlin, .NET, React.
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect
 - 🔗 [MrGegaz.dev](https://mrgegaz.dev)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/zdenko-gega-6bb5b1242/)
-- 🔗 [Telegram](#) *(link to be added)*
-- 📧 You can reach me at: **mrgegaz.dev@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/zdenko-gega-6bb5b1242/)
+- 📧 mrgegaz.dev@gmail.com
 
-(I may respond during evenings or weekends; however, please feel no obligation to reply outside your normal working/available hours.)
+_I usually reply evenings or weekends - no pressure to respond outside your own hours._
 
 ---
 
 ## ⚡ Fun Facts
-- I always try to fix things myself before asking for help 🔧
-- I'm an airsoft enthusiast and a big fan of everything DIY
-- I enjoy combining tech with my hobbies - especially when it involves 3D printing or microcontrollers 😎
+- I'll always try to fix it myself before asking for help 🔧
+- Airsoft enthusiast and all-around DIY fan
+- Love combining tech with my hobbies - especially 3D printing and microcontrollers 😎
 
 ---
 
-Thanks for stopping by! Feel free to check out my projects or say hi!
+Thanks for stopping by! Feel free to check out my projects or say hi 👋
