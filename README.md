@@ -25,6 +25,7 @@ Tools:      Git • VS Code • JetBrains • Android Studio • Unity • Godot
 
 ## 📌 Projects
 - 📟 **Daktilografija (Typing App)** - Group project refactoring and completing a typing app started by previous students: code cleanup, bug fixing, and new features to get it working again.
+- Translating [Wholphin](https://github.com/damontecres/Wholphin) into Croatian. [Get involved](https://translate.codeberg.org/engage/wholphin/) [![Translation status](https://translate.codeberg.org/widget/wholphin/wholphin/hr/matrix-auto.svg)](https://translate.codeberg.org/engage/wholphin/)
 
 _(More coming soon - stay tuned!)_
 
@@ -32,7 +33,7 @@ _(More coming soon - stay tuned!)_
 
 ## 🚀 Now
 🔭 **Working on:**
--   translating [Wholphin](https://github.com/damontecres/Wholphin) into Croatian. [Get involved](https://translate.codeberg.org/engage/wholphin/) [![Translation status](https://translate.codeberg.org/widget/wholphin/wholphin/hr/matrix-auto.svg)](https://translate.codeberg.org/engage/wholphin/)
+-   Just finished translating [Wholphin](https://github.com/damontecres/Wholphin) into Croatian.
 
 🌱 **Learning:**
 - Java, Spring Boot, Kotlin, .NET, React.
